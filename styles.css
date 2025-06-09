@@ -76,7 +76,7 @@ nav ul li a {
         }
         
         .btn {
-            display: inline-block;
+            display: flex;
             background: #6e45e2;
             color: white;
             padding: 0.7rem 1.5rem;
